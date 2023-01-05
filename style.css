@@ -93,7 +93,7 @@ body{
 
 .arrow{
 	position: absolute;
-	top:2vh;
+	top:0;
 	left:50vw;
 	transform: translateX(-50%);
 	color:rgb(210, 28, 28);
@@ -104,7 +104,7 @@ body{
 .arrow::before{
 	content:"\2193";
 	
-	font-size:5rem;
+	font-size:2rem;
 	font-weight: bold;
 }
 
