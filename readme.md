@@ -7,7 +7,9 @@ rules :-
 link of the game:-https://niteshcodes.github.io/spinnergame/
 
 ---
-Player: as many you want
-tasks: one task at a time
-time-limit: No limit
+id: 587d7b8c367417b2b2512b54
+title: Use getters and setters to Control Access to an Object
+challengeType: 1
+forumTopicId: 301220
+dashedName: use-getters-and-setters-to-control-access-to-an-object
 ---
