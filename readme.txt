@@ -5,3 +5,9 @@ rules :-
 3) you have to complete the task given showing on the next popup window
 
 link of the game:-https://niteshcodes.github.io/spinnergame/
+
+---
+Player: as many you want
+tasks: one task at a time
+time-limit: No limit
+---
